@@ -2,7 +2,6 @@
 ## Description
 .<br><br>
 In this project we are presenting the real time facial expression recognition of seven most basic human expressions: ANGER, DISGUST, FEAR, HAPPY, NEUTRAL SAD, SURPRISE.<br><br>
-## Source Data
 ## Prerequisites
 You need to have installed following softwares and libraries in your machine before running this project.
 1. Python 3

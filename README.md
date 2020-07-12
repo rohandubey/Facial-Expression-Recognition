@@ -1,4 +1,4 @@
-# Facial-Expression-Recognition with Keras
+# Facial-Expression-Recognition (with Keras)
 ## Description
 .<br><br>
 In this project we are presenting the real time facial expression recognition of seven most basic human expressions: ANGER, DISGUST, FEAR, HAPPY, NEUTRAL SAD, SURPRISE.<br><br>
@@ -23,5 +23,7 @@ You need to have installed following softwares and libraries in your machine bef
 * Sklearn: It is a Machine Learning library but here it is used just to calculate accuracy and confusion matrix.
 * Flask: Flask is a micro web framework written in Python. It is a lightweight WSGI web application framework.
 * Tensorflow: Model building, classsification and predictiong. Keras requires tensorflow.
+## Model Layers
+![alt text](https://github.com/rohandubey/Facial-Expression-Recognition/blob/master/model.png)
 ## Authors
 Rohan Dubey - Complete work

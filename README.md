@@ -16,6 +16,12 @@ You need to have installed following softwares and libraries in your machine bef
 4. Keras: ```pip3 install keras```
 5. flask: ```pip3 install flask```
 6. tensorflow: ```pip3 install tensorflow```
+## Dataset 
+#### Download dataset from Kaggle API
+```
+!kaggle competitions download -c challenges-in-representation-learning-facial-expression-recognition-challenge
+```
+_**Unzip the file to get dataset.**_
 ## Built With
 * ipython-notebook - Python Text Editor
 * OpenCV - It is used for processing images

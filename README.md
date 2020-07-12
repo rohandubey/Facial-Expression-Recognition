@@ -12,9 +12,9 @@ You need to have installed following softwares and libraries in your machine bef
 ## Installing
 1. Python 3: https://www.python.org/downloads/
 2. Anaconda: https://www.anaconda.com/download/
-3. OpenCV: pip3 install opencv-python
-4. Keras: pip3 install keras
-5. flask: pip3 install flask
+3. OpenCV: ```pip3 install opencv-python```
+4. Keras: ```pip3 install keras```
+5. flask: ```pip3 install flask```
 ## Built With
 * ipython-notebook - Python Text Editor
 * OpenCV - It is used for processing images

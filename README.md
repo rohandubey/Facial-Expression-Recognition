@@ -1,4 +1,4 @@
-# Facial-Expression-Recognition (with Keras)
+# Facial-Expression-Recognition (with Keras)[![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg)](https://github.com/Spidy20/Music_player_with_Emotions_recognition/blob/master/LICENSE)
 ## Description
 <br><br>
 In this project we are presenting the real time facial expression recognition of seven most basic human expressions: ANGER, DISGUST, FEAR, HAPPY, NEUTRAL SAD, SURPRISE.<br><br>

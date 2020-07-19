@@ -1,4 +1,5 @@
-# Facial-Expression-Recognition (with Keras)[![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg)](https://github.com/rohandubey/Facial-Expression-Recognition/blob/master/LICENSE)
+# Facial-Expression-Recognition (with Keras)
+[![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg)](https://github.com/rohandubey/Facial-Expression-Recognition/blob/master/LICENSE) [![PyPi Version](https://pypip.in/v/shield/badge.png)](https://pypi.python.org/pypi/shield) [![PyPI status](https://img.shields.io/pypi/status/trains-jupyter-plugin.svg)](https://pypi.python.org/pypi/trains-jupyter-plugin/)[![PyPI pyversions](https://img.shields.io/pypi/pyversions/trains-jupyter-plugin.svg)](https://img.shields.io/pypi/pyversions/trains-jupyter-plugin.svg)
 ## Description
 <br><br>
 In this project we are presenting the real time facial expression recognition of seven most basic human expressions: ANGER, DISGUST, FEAR, HAPPY, NEUTRAL SAD, SURPRISE.<br><br>

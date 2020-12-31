@@ -5,7 +5,9 @@
 [![PyPI status](https://img.shields.io/pypi/status/trains-jupyter-plugin.svg)](https://pypi.python.org/pypi/trains-jupyter-plugin/) 
 ## Description
 <br><br>
-In this project we are presenting the real time facial expression recognition of seven most basic human expressions: ANGER, DISGUST, FEAR, HAPPY, NEUTRAL SAD, SURPRISE.<br><br>
+In this project we are presenting the real time facial expression recognition of seven most basic human expressions: ANGER, DISGUST, FEAR, HAPPY, NEUTRAL SAD, SURPRISE.<br></br>
+![alt text](portfolio-9.jpg?raw=true)
+<br></br>
 ## Prerequisites
 You need to have installed following softwares and libraries in your machine before running this project.
 1. Python 3
@@ -35,4 +37,4 @@ _**Unzip the file to get dataset.**_
 ## Model Layers
 ![alt text](https://github.com/rohandubey/Facial-Expression-Recognition/blob/master/model.png)
 ## Authors
-Rohan Dubey - Complete work
+<p>Made with ❤️ Rohan Dubey - Complete work</p>

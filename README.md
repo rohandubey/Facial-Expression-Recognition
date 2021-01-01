@@ -37,4 +37,4 @@ _**Unzip the file to get dataset.**_
 ## Model Layers
 ![alt text](https://github.com/rohandubey/Facial-Expression-Recognition/blob/master/model.png)
 ## Authors
-<p>Made with ❤️ Rohan Dubey - Complete work</p>
+<p>Made with ❤️ by Rohan Dubey - Complete work</p>
